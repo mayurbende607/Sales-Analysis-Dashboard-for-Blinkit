@@ -78,13 +78,14 @@ The dashboard includes interactive filters for:
 
 
 ## 📸 Dashboard Preview  
-
+[Blinkit power bi dashboard]
+(https://github.com/mayurbende607/Sales-Analysis-Dashboard-for-Blinkit/blob/main/Screenshot%202025-09-05%20121115.png)
 
 
 
 ### 👨‍💻 Author  
 *Mayur Bende*  
-📧 [Add your email or LinkedIn link here]  
+📧 [ LinkedIn link :-https://www.linkedin.com/in/mayur-bende-38792332a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ]  
 📍 India  
 
 
