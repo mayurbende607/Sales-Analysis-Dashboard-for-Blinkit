@@ -58,7 +58,7 @@ The dashboard includes interactive filters for:
 
 ## 📁 Files Included  
 - Blinkit_Sales_Dashboard.pbix → Power BI report file  
-- Blinkit_Sales_Data.csv → Raw dataset  
+- BlinkIT-Grocery-Data.csv → Raw dataset  
 - README.md → Project documentation  
 
 
